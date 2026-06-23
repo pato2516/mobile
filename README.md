@@ -1,2 +1,0 @@
-# mobile
-SACCO Mobile App
